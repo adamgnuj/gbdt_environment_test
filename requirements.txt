@@ -82,7 +82,6 @@ holoviews @ file:///croot/holoviews_1686339332730/work
 huggingface-hub @ file:///croot/huggingface_hub_1686693679113/work
 hvplot @ file:///croot/hvplot_1685998166135/work
 hyperlink @ file:///tmp/build/80754af9/hyperlink_1610130746837/work
-ibug==0.0.9
 idna @ file:///croot/idna_1666125576474/work
 imagecodecs @ file:///croot/imagecodecs_1677576717595/work
 imageio @ file:///croot/imageio_1687264943895/work
