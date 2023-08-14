@@ -1,0 +1,11 @@
+# requirements:
+
+pandas
+lightgbm
+numpy
+scikit-learn
+matplotlib
+tqdm
+seaborn
+
+scipy == 1.11.1
