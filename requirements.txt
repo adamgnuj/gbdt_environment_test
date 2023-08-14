@@ -7,5 +7,6 @@ scikit-learn
 matplotlib
 tqdm
 seaborn
+julia
 
 scipy == 1.11.1
